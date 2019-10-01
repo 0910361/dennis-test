@@ -1,2 +1,2 @@
 # dennis-test
-Dit is mijn eerste commit
+Dit is mijn tweede commit
