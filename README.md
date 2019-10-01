@@ -1,2 +1,2 @@
 # dennis-test
-Dit is mijn test repository
+Dit is mijn eerste commit
